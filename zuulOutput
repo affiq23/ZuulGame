@@ -1,0 +1,22 @@
+run:
+
+Welcome to Subterranean!
+This is an exciting game in which you search for treasure deep within a cave.
+Type 'guide' if you need help.
+
+You are inside the starting cave. This is a small, well-lit room that has many cabinets along the walls. From here you can continue your adventure..
+Exits:  east north
+
+> guide
+Hi there. I'm your guide.
+You're searching in the cave for the treasure.
+What direction do you want to go to next?
+
+Your command words are:
+go quit guide look eat 
+> look
+You are inside the starting cave. This is a small, well-lit room that has many cabinets along the walls. From here you can continue your adventure..
+Exits:  east north
+> quit
+Come back to the cave when you are ready.
+BUILD SUCCESSFUL (total time: 9 seconds)
